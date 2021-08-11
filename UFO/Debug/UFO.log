@@ -1,0 +1,7 @@
+﻿  ufo_functions.cpp
+H:\Programming Portfolio\C++\UFO\UFO\ufo_functions.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+H:\Programming Portfolio\C++\UFO\UFO\ufo_functions.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+  UFO.cpp
+H:\Programming Portfolio\C++\UFO\UFO\UFO.cpp(25,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  UFO.vcxproj -> H:\Programming Portfolio\C++\UFO\Debug\UFO.exe
